@@ -17,7 +17,6 @@ public class  OnBoardActivity extends AppCompatActivity {
 
     Button button;
 
-Prefs prefs;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
